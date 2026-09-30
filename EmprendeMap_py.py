@@ -32,7 +32,7 @@ DB_PATH   = BASE_DIR / "emprendemap.db"
 C_ORANGE      = "#E8590A"
 C_ORANGE_DARK = "#C44D07"
 C_YELLOW      = "#FFF3B0"
-C_ORANGE      = "#E8590A"
+C_YELLOW_DEEP = "#FFE566"
 C_BG_PLANS    = "#FDF0D5"
 C_CARD_WHITE  = "#FFFFFF"
 C_CREAM_CARD  = "#FFFDF5"
@@ -52,7 +52,7 @@ C_LINK        = "#C44D07"
 # ── Plan data ─────────────────────────────────────────────────────────
 OWNERS_PLANS = [
     {
-        "badge": "PLAN BÁSICO", "name": "GRATIS",
+        "badge": "PLAN BASE", "name": "GRATIS",
         "monthly": "$0.00", "yearly": "$0.00", "saving": "$0.00",
         "bg": C_CREAM_CARD,
         "features": [
