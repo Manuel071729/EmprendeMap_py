@@ -52,7 +52,7 @@ C_LINK        = "#C44D07"
 # ── Plan data ─────────────────────────────────────────────────────────
 OWNERS_PLANS = [
     {
-        "badge": "PLAN BASE", "name": "GRATIS",
+        "badge": "PLAN BASE", "name": "FREE",
         "monthly": "$0.00", "yearly": "$0.00", "saving": "$0.00",
         "bg": C_CREAM_CARD,
         "features": [
