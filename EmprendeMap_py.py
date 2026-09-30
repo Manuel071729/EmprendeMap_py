@@ -76,7 +76,7 @@ OWNERS_PLANS = [
 
 ENTREPRENEURS_PLANS = [
     {
-        "badge": "PLAN SCOUT", "name": "BÁSICO",
+        "badge": "PLAN SCOUT", "name": "Normal",
         "monthly": "$0.00", "yearly": "$0.00", "saving": "$0.00",
         "bg": C_CREAM_CARD,
         "features": [
